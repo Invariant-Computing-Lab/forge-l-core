@@ -1,0 +1,22 @@
+{
+  "repo": "forge-l-core",
+  "recovery": "CP03R1",
+  "tests_executed": 1,
+  "passed": true,
+  "scope": "Unchanged core, new eight-seed regression runner. Full historical scan, spectral calibration and generation-4 campaign are not independently reproduced.",
+  "commands": [
+    {
+      "command": [
+        "python",
+        "replay_core.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.081,
+      "stdout": "{\"passed\": true, \"seeds\": 8}\n",
+      "stderr": ""
+    }
+  ],
+  "generated_result_hashes": {
+    "replay_result.json": "8fb86afbc78418d197bbe98c8f8ed8ce0fcbddeae7e87f1c547ac25fefd9b265"
+  }
+}

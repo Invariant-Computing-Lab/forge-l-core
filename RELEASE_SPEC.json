@@ -1,0 +1,27 @@
+{
+  "repo": "forge-l-core",
+  "codes": [
+    "N013"
+  ],
+  "commands": [
+    [
+      "python",
+      "replay_core.py"
+    ]
+  ],
+  "check_cwd": ".",
+  "scope": "Unchanged core, new eight-seed regression runner. Full historical scan, spectral calibration and generation-4 campaign are not independently reproduced.",
+  "source_unchanged": true,
+  "status": "LOCAL_CHECKS_PASS_OWNER_GATES_OPEN",
+  "owner_approval_required": true,
+  "public_uploaded": false,
+  "source_reference": "See private release registry; source hashes retained.",
+  "last_check": {
+    "repo": "forge-l-core",
+    "passed": true,
+    "scope": "Unchanged core, new eight-seed regression runner. Full historical scan, spectral calibration and generation-4 campaign are not independently reproduced.",
+    "commands": 1,
+    "readiness": "LOCAL_CHECKS_PASS_OWNER_GATES_OPEN",
+    "reason": "Declared local checks passed; scientific, rights and deployment scope remain limited."
+  }
+}

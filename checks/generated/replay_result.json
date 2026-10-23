@@ -1,0 +1,93 @@
+{
+  "runs": [
+    {
+      "seed": 20260726,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 20261013,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 1,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 2,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 3,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 4,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 5,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    },
+    {
+      "seed": 6,
+      "cells": 108,
+      "L": 72,
+      "S": 36,
+      "vertices": 460,
+      "edges": 1470,
+      "max_degree": 69,
+      "connected": true,
+      "causal_acyclic": true
+    }
+  ],
+  "full_generation4_campaign_repeated": false
+}

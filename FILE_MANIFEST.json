@@ -1,0 +1,62 @@
+[
+  {
+    "path": ".github/workflows/source-check.yml",
+    "bytes": 282,
+    "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 202,
+    "sha256": "12115c8171006d4e83d6c001ef66cc77ccb624234e51c938c34bd51168319c41"
+  },
+  {
+    "path": "DEPENDENCIES_AND_CHECKS.md",
+    "bytes": 508,
+    "sha256": "55b7c5464933249aeeb4d189b747b0c53c6cb23252becc18d244d8bb6f5b2f89"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1834,
+    "sha256": "86a91c245620b9d479d585ed1859ffae3b308305ff4afd8ecf7e912cac8b24e9"
+  },
+  {
+    "path": "RELEASE_NOTES.md",
+    "bytes": 215,
+    "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+  },
+  {
+    "path": "RELEASE_SPEC.json",
+    "bytes": 952,
+    "sha256": "b469cfc25155e7dee9dc1416bd3470f5ba5fda44752172d44deb5195eb535c61"
+  },
+  {
+    "path": "checks/RESULT.json",
+    "bytes": 612,
+    "sha256": "504df6d3f3fcd0ae2f319d7d99b127699b8f26263df75d292954eddb06f1b290"
+  },
+  {
+    "path": "checks/generated/replay_result.json",
+    "bytes": 1695,
+    "sha256": "8fb86afbc78418d197bbe98c8f8ed8ce0fcbddeae7e87f1c547ac25fefd9b265"
+  },
+  {
+    "path": "code/forge_local.py",
+    "bytes": 17433,
+    "sha256": "9f53bb73a0abbce0acbd7cf69863b570ada6ce505d8da4e208f2815f952a030a"
+  },
+  {
+    "path": "replay_core.py",
+    "bytes": 1057,
+    "sha256": "ebf4232b3a1cc2d26d36e3150d9e011125ffa19ec86c572896dcc53c71049cc4"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 76,
+    "sha256": "30fd64d011c61147beeecfc09ce2a1a425f5a645e0e904d7907df8952931ad46"
+  },
+  {
+    "path": "run_checks.py",
+    "bytes": 2366,
+    "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+  }
+]
