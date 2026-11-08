@@ -1,5 +1,7 @@
 # forge-l-core
 
+**Institutional context.** Invariant Computing Lab — FORGE finite computational study. Archived numerical results and finite software checks are not peer-reviewed proof, continuum validation or an independently verified physical prediction.
+
 CP03R1 source and reproducibility package. Portfolio codes: N013.
 
 ## What is included
@@ -26,7 +28,7 @@ Recovered from the fixed source archives listed in the private delivery registry
 Software tests are not independent biological, clinical, physical or mathematical validation. Review the original study's failed and untested claims before citing results. Missing components are not fabricated. This version is not automatically the latest code from other concurrent workstreams.
 
 ## Publication and licensing
-This is a private staging package. Existing licence files retain their original meaning; no new blanket licence or third-party redistribution permission is granted. A human maintainer must approve authorship, rights, secrets and target-account settings before public upload.
+This repository is publicly visible. That visibility does not grant a blanket software licence, reuse rights to third-party data, or independent scientific validation. Existing licence and rights notices retain their own terms; source provenance and release approval remain distinct.
 ## Verified packaging revision — 2026-10-20
 
 Unchanged core, new eight-seed regression runner. Full historical scan, spectral calibration and generation-4 campaign are not independently reproduced.
